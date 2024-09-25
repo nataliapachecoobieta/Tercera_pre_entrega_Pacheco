@@ -11,7 +11,7 @@ Natam es una empresa de aeronáutica que esta recién partiendo, sus directores 
 Inicio: /app-natam/inicio/ , página inicial
 LOG IN : /app-natam/login-formulario/, se redirige al formulario para que la persona ingrese al sitio web.
 Regístrate: /app-natam/register-formulario: se redirige a el formulario para ingrese sus datos.
-Tickets : 7app-natam/ticket-formulario: en este formulario  un usuario podrá ingresar los datos de su ticket 
+Tickets : /app-natam/ticket-formulario: en este formulario  un usuario podrá ingresar los datos de su ticket 
 
 
 
