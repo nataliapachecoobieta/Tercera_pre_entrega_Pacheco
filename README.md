@@ -51,5 +51,9 @@ A continuacion estan los links que  son vastante intiutivo a lo que redirigen y 
 Espero sea de ayuda …. Sabemos que es solo el comienzo y falta por terminar, pero estamos muy satisfechos con los primeros resultados 
 
 En Natam , Nos encanta codiar  😊
+
+
+
+
 A continuacion dejo el link del fucionamiento de la pagina    https://www.loom.com/share/d2590f28c84f4fc0bad633c991cd3ea4
 
